@@ -1,0 +1,4 @@
+interface:
+  display_name: "LatePost Exclusive Brief"
+  short_description: "晚点式商业独家消息稿"
+  default_prompt: "Use $latepost-exclusive-brief to draft a concise Chinese business exclusive brief from verified facts."
