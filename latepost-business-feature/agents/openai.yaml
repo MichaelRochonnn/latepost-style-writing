@@ -1,0 +1,4 @@
+interface:
+  display_name: "LatePost Business Feature"
+  short_description: "晚点式公司与行业长报道"
+  default_prompt: "Use $latepost-business-feature to draft a Chinese company or industry feature around a business tension."
