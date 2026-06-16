@@ -1,0 +1,4 @@
+interface:
+  display_name: "LatePost Dialogue Profile"
+  short_description: "晚点式人物对话与专访"
+  default_prompt: "Use $latepost-dialogue-profile to turn interview notes into a Chinese dialogue profile."
