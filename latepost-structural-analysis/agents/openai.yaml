@@ -1,0 +1,4 @@
+interface:
+  display_name: "LatePost Structural Analysis"
+  short_description: "晚点式结构性商业分析"
+  default_prompt: "Use $latepost-structural-analysis to draft a Chinese structural business analysis with sourced evidence."
