@@ -1,5 +1,9 @@
 # LatePost Style Writing Skills
 
+## About
+
+A compact collection of Codex skills for writing original Chinese business articles with LatePost-inspired structure: scoops, company features, interviews, data stories, and structural analysis. The skills focus on editorial architecture, sourcing discipline, and analytical pacing rather than copying any article text.
+
 This repository contains Codex skills for Chinese business writing inspired by the editorial structure of LatePost articles.
 
 The skills are designed to help draft original articles with similar high-level reporting architecture, pacing, and analytical discipline. They do not contain full LatePost article text and should not be used to copy or reproduce copyrighted material.
