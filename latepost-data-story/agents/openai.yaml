@@ -1,0 +1,4 @@
+interface:
+  display_name: "LatePost Data Story"
+  short_description: "晚点小数据式短文"
+  default_prompt: "Use $latepost-data-story to write a compact Chinese data story from a verified dataset."
